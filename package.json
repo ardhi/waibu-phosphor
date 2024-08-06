@@ -1,0 +1,33 @@
+{
+  "name": "waibu-phosphor",
+  "version": "1.0.0",
+  "description": "Phosphoricons suport for Waibu MPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/waibu-phosphor.git"
+  },
+  "keywords": [
+    "phosphor",
+    "waibu",
+    "web",
+    "webserver",
+    "bajo",
+    "framework",
+    "fastify",
+    "modular"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/waibu-phosphor/issues"
+  },
+  "homepage": "https://github.com/ardhi/waibu-phosphor#readme",
+  "dependencies": {
+    "@phosphor-icons/web": "^2.1.1"
+  }
+}
