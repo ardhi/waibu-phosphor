@@ -1,4 +1,4 @@
 {
-  "alias": "wbpp",
+  "alias": "wpp",
   "dependencies": ["waibu-mpa"]
 }

@@ -1,6 +1,6 @@
 # waibu-phosphor
 
-Plugin name: **waibuPhosphor**, alias: **wbpp**
+Plugin name: **waibuPhosphor**, alias: **wpp**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-phosphor) ![NPM Version](https://img.shields.io/npm/v/waibu-phosphor)
 
