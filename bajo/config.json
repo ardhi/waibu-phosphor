@@ -1,4 +1,4 @@
 {
-  "alias": "wpp",
+  "prefix": "phosphor",
   "dependencies": ["waibu-mpa"]
 }
