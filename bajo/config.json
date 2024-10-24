@@ -1,4 +1,6 @@
 {
-  "prefix": "phosphor",
+  "waibu": {
+    "prefix": "phosphor"
+  },
   "dependencies": ["waibu-mpa"]
 }
