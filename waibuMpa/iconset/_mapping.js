@@ -152,6 +152,7 @@ export default {
   genderMale: '',
   geomBbox: 'bounding-box',
   gift: '',
+  globe: '',
   grid: 'grid-four',
   hammer: '',
   handbag: '',
