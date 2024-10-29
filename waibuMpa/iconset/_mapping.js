@@ -76,6 +76,7 @@ export default {
   check: '',
   checkAll: 'checks',
   circle: '',
+  circleCheck: 'check-circle',
   clipboard: '',
   clock: '',
   cloud: '',
