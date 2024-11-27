@@ -323,6 +323,7 @@ export default {
   unlock: 'lock-open',
   upload: '',
   usb: '',
+  vector: 'bezier-curve',
   voicemail: '',
   volumeDown: 'speaker-low',
   volumeUp: 'speaker-high',
