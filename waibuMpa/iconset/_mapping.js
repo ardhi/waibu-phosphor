@@ -122,6 +122,7 @@ export default {
   eyeglasses: '',
   eyeSlash: '',
   fan: '',
+  favorite: 'heart',
   feather: '',
   file: '',
   fileAudio: '',
