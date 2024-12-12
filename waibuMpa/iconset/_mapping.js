@@ -270,6 +270,7 @@ export default {
   replyAll: 'arrow-bend-double-up-left',
   robot: '',
   rocket: '',
+  save: 'floppy-disk',
   search: 'magnifying-glass',
   send: 'paper-plane-right',
   server: 'hard-drives',
