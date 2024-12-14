@@ -281,6 +281,7 @@ export default {
   shop: 'storefront',
   signin: 'sign-in',
   signout: 'sign-out',
+  signSplit: 'traffic-sign',
   signInfo: 'info',
   signWarning: 'warning',
   signDanger: 'prohibit',
