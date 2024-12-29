@@ -266,6 +266,7 @@ export default {
   receipt: '',
   recycle: '',
   remove: 'x',
+  ruler: '',
   reply: 'arrow-bend-up-left',
   replyAll: 'arrow-bend-double-up-left',
   robot: '',
