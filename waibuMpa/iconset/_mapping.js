@@ -335,6 +335,7 @@ export default {
   volumeX: 'speaker-x',
   wallet: '',
   watch: '',
+  weather: 'cloud-rain',
   webcam: '',
   wifi: 'wifi-high',
   wifiSlash: 'wifi-slash',
