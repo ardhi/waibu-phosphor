@@ -1,6 +1,6 @@
 {
   "name": "waibu-phosphor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Phosphoricons suport for Waibu MPA",
   "main": "index.js",
   "scripts": {
