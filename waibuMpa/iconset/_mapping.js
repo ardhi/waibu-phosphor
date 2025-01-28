@@ -260,7 +260,6 @@ export default {
   projector: 'projector-screen',
   puzzle: 'puzzle-piece',
   qrcode: 'qr-code',
-  question: '',
   quote: 'quotes',
   radioactive: '',
   receipt: '',
