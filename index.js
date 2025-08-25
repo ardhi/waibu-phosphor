@@ -1,11 +1,12 @@
 async function factory (pkgName) {
   const me = this
 
-  return class BajoPhosphor extends this.lib.Plugin {
+  class WaibuPhosphor extends this.lib.Plugin {
+    static alias = 'wpp'
+    static dependencies = ['waibu-mpa']
+
     constructor () {
       super(pkgName, me.app)
-      this.alias = 'wpp'
-      this.dependencies = ['waibu-mpa']
       this.config = {
         waibu: {
           prefix: 'phosphor'
@@ -13,6 +14,8 @@ async function factory (pkgName) {
       }
     }
   }
+
+  return WaibuPhosphor
 }
 
 export default factory
