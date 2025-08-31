@@ -1,7 +1,7 @@
 import mapping from './_mapping.js'
 
 function phosphor (ctx) {
-  const { cloneDeep } = this.lib._
+  const { cloneDeep } = this.app.lib._
   return {
     name: 'phosphor',
     css: 'waibuPhosphor.virtual:/phosphor/regular/style.css',
