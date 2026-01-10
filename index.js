@@ -13,9 +13,6 @@ async function factory (pkgName) {
    * @class
    */
   class WaibuPhosphor extends this.app.baseClass.Base {
-    static alias = 'wpp'
-    static dependencies = ['waibu-mpa']
-
     constructor () {
       super(pkgName, me.app)
       this.config = {
