@@ -1,6 +1,6 @@
 import mapping from './_mapping.js'
 
-function phosphorDuotone (ctx) {
+function phosphorDuotone () {
   const { cloneDeep } = this.app.lib._
   return {
     name: 'phosphor-duotone',

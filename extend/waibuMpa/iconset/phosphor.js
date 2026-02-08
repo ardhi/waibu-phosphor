@@ -1,6 +1,6 @@
 import mapping from './_mapping.js'
 
-function phosphor (ctx) {
+function phosphor () {
   const { cloneDeep } = this.app.lib._
   return {
     name: 'phosphor',

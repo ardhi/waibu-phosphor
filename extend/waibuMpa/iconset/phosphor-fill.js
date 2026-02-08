@@ -1,6 +1,6 @@
 import mapping from './_mapping.js'
 
-function phosphorFill (ctx) {
+function phosphorFill () {
   const { cloneDeep } = this.app.lib._
   return {
     name: 'phosphor-fill',
